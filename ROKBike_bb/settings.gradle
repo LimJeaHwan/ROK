@@ -1,0 +1,3 @@
+rootProject.name='ROKBike_bb'
+include ':app'
+include ':ROKBTest'

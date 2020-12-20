@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="all">
+    <item
+        android:id="@+id/main_btn1"
+        android:title="아라자전거길" />
+    <item
+        android:id="@+id/main_btn2"
+        android:title="한강종주자전거길"/>
+    <item
+        android:id="@+id/main_btn3"
+        android:title="낙동강자전거길"/>
+    <item
+        android:id="@+id/main_btn4"
+        android:title="섬진강자전거길"/>
+</group>
+</menu>
